@@ -44,5 +44,7 @@ html, body {
 }
 .card-title {
     text-align: center;
+    padding-top: 10px;
 }
+
 
