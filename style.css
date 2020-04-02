@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     width: 100%;
     color: #222;
+    font-family: "Montserrat";
 }
 
 .navbar {
@@ -32,12 +33,12 @@ html, body {
 }
 .display-4{
     font-size: 200%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .container-fluid {
     padding-left: 5rem;
     padding-right: 5rem;
-   
-  
 }
 
 .card-text {
@@ -48,4 +49,6 @@ html, body {
     padding-top: 10px;
 }
 
-
+.profile-pic {
+    padding-top: 10px;
+}
