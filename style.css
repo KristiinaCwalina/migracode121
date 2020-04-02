@@ -3,6 +3,7 @@ html, body {
     width: 100%;
     color: #222;
 }
+
 .navbar {
     padding: 1.5rem;
 }
@@ -35,4 +36,13 @@ html, body {
 .container-fluid {
     padding-left: 5rem;
     padding-right: 5rem;
+  
 }
+
+.card-text {
+    text-align: center;
+}
+.card-title {
+    text-align: center;
+}
+
