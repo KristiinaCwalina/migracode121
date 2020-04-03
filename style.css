@@ -71,7 +71,7 @@ html, body {
     top: 75px;
  }
  h6 {
-     padding-top: 30px;
+     padding-top: 50px;
  }
   .carousel-inner > .item {
     height: 500px;
@@ -82,3 +82,16 @@ html, body {
  .btn {
      margin-top: 75px;
  }
+.fa {
+    color: black;
+    padding: 8px;
+}
+.row {
+    justify-content: center;
+}
+.col-12 {
+    margin-top: 50px;
+}
+.footer-bottom{
+  justify-content: space-around;
+}
